@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+D:\PCB\FEDEVEL\0_Starting_with_Altium_Designer\LED_Project\Project Outputs for LED_Project\Generates pick and place files\[No Variations].txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/01/23
+Time:       14:39
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer       Footprint Center-X(mil) Center-Y(mil) Rotation Description                                                                                
+R2         360R         BottomLayer R0805     590.551       80.709        90       "Res Thick Film 0805 360 Ohm 1% 1/8W ±100ppm/°C Molded SMD SMD Paper T/R"                  
+D2         "GREEN LED"  BottomLayer LED0603G  413.386       78.740        270      "LED GREEN 0603 SMD"                                                                       
+R1         360R         TopLayer    R0805     236.220       592.520       90       "Res Thick Film 0805 360 Ohm 1% 1/8W ±100ppm/°C Molded SMD SMD Paper T/R"                  
+J1         "1x2 Header" TopLayer    HEADER1X2 610.236       402.756       0        "KK 254 Wire-to-Board Header, Vertical, with Friction Lock, 2 Circuits, Gold (Au) Plating" 
+D1         "GREEN LED"  TopLayer    LED0603G  236.220       177.165       90       "LED GREEN 0603 SMD"                                                                       
