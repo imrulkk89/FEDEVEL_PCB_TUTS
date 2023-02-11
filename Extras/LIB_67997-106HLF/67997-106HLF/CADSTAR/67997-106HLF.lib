@@ -1,0 +1,20 @@
+.67997-106HLF :1 ;BergStik, Board to Board connector, Unshrouded vertical header, Through Hole, Double Row, 6 Positions, 2.54 mm (0.100in) Pitch
+HDRV6W67P254_2X3_762X483X838P
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6"
+*MXP 6
+*DFN 67997-106HLF
+~!Manufacturer_Name (Amphenol Communication Solutions)
+~!Manufacturer_Part_Number (67997-106HLF)
+~!Mouser Part Number (649-67997-106HLF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/67997-106HLF?qs=zh4O8xspOuyE7IwD3CxQ4w%3D%3D)
+~!Arrow Part Number (67997-106HLF)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/67997-106hlf/amphenol-fci?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/67996.pdf)
+~!Height (8.38mm)
+~!3D_Model (67997-106HLF)
+"67997-106HLF"
+1.1!U 3.1!U 5.1!U 2.1!U 4.1!U 6.1!U 

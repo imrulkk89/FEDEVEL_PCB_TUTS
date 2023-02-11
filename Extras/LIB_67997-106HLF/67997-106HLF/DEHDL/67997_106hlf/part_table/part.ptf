@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '67997_106HLF'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol Communication Solutions", "67997-106HLF" (!) = "", "HDRV6W67P254_2X3_762X483X838P", "Header, Vertical", "649-67997-106HLF", "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/67997-106HLF?qs=zh4O8xspOuyE7IwD3CxQ4w%3D%3D", "67997-106HLF", "https://www.arrow.com/en/products/67997-106hlf/amphenol-fci?region=nac", "", "", "BergStik, Board to Board connector, Unshrouded vertical header, Through Hole, Double Row, 6 Positions, 2.54 mm (0.100in) Pitch", "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/67996.pdf", "8.38 mm"
+END_PART
+
+END.

@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 67997-106HLF
+#/370317/1069704/2.49/6/2/Connector
+DEF 67997-106HLF J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "67997-106HLF" 650 200 50 H V L CNN
+F2 "HDRV6W67P254_2X3_762X483X838P" 650 100 50 H I L CNN
+F3 "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/67996.pdf" 650 0 50 H I L CNN
+F4 "BergStik, Board to Board connector, Unshrouded vertical header, Through Hole, Double Row, 6 Positions, 2.54 mm (0.100in) Pitch" 650 -100 50 H I L CNN "Description"
+F5 "8.38" 650 -200 50 H I L CNN "Height"
+F6 "Amphenol Communication Solutions" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "67997-106HLF" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "649-67997-106HLF" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/67997-106HLF?qs=zh4O8xspOuyE7IwD3CxQ4w%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "67997-106HLF" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/67997-106hlf/amphenol-fci?region=nac" 650 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 650 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 650 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 3 3 0 -100 200 R 50 50 0 0 P
+X 5 5 0 -200 200 R 50 50 0 0 P
+X 2 2 800 0 200 L 50 50 0 0 P
+X 4 4 800 -100 200 L 50 50 0 0 P
+X 6 6 800 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
