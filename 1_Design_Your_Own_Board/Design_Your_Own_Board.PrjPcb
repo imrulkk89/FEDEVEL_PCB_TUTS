@@ -140,23 +140,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MOBZVRLZ
 
 [Document7]
-DocumentPath=..\Extras\Templates\Templates\Schematic\28Pins_Project_V1I1 Project.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QNWYVDEJ
-
-[Document8]
 DocumentPath=28Pins_Projects_V1I1\[04] - REVISION HISTORY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QIWPOGFT
 
-[Document9]
+[Document8]
 DocumentPath=28Pins_Projects_V1I1\28Pins_JobFile.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -195,32 +178,32 @@ DocumentPath=Project Outputs for Free Documents\BOM\28Pins Bom Purchasing-Design
 DItemRevisionGUID=
 
 [Parameter1]
-Name=VersionRevision
-Value=V 1I1
+Name=Author
+Value=Imrul Kais Khan
 
 [Parameter2]
-Name=Title
-Value=28Pins
+Name=Company
+Value=Levin Tech
 
 [Parameter3]
-Name=Project
-Value=Custom Arduino
+Name=DesignedByURL
+Value=www.levintech-bd.com
 
 [Parameter4]
 Name=NotFitted
 Value=NF
 
 [Parameter5]
-Name=DesignedByURL
-Value=www.levintech-bd.com
+Name=Project
+Value=Custom Arduino
 
 [Parameter6]
-Name=Company
-Value=Levin Tech
+Name=Title
+Value=28Pins
 
 [Parameter7]
-Name=Author
-Value=Imrul Kais Khan
+Name=VersionRevision
+Value=V 1I1
 
 [Configuration1]
 Name=Sources
