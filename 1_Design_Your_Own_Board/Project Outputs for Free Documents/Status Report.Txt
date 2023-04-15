@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:00:49 PM On 4/15/2023
+
+Output: 28Pins Bom Purchasing
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Design_Your_Own_Board.PrjPcb]
+   Generated File[28Pins Bom Purchasing-Design_Your_Own_Board.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:01:02 PM On 4/15/2023

@@ -173,27 +173,48 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QIWPOGFT
 
+[Document9]
+DocumentPath=28Pins_Projects_V1I1\28Pins_JobFile.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Parameter1]
+Name=Title
+Value=28Pins
+
+[Parameter2]
 Name=VersionRevision
 Value=V 1I1
 
-[Parameter2]
+[Parameter3]
 Name=Project
 Value=Custom Arduino
 
-[Parameter3]
+[Parameter4]
 Name=NotFitted
 Value=NF
 
-[Parameter4]
+[Parameter5]
 Name=DesignedByURL
 Value=www.levintech-bd.com
 
-[Parameter5]
+[Parameter6]
 Name=Company
 Value=Levin Tech
 
-[Parameter6]
+[Parameter7]
 Name=Author
 Value=Imrul Kais Khan
 
