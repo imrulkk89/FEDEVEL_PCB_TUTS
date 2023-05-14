@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=16U2_RESETn Pin=R26-1
+Added Pin To Net: NetName=+3v3_16U2_UCAP Pin=R26-1
