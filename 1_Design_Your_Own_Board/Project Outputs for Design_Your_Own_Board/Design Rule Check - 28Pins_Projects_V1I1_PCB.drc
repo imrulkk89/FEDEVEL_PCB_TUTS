@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : D:\PCB\FEDEVEL\1_Design_Your_Own_Board\28Pins_Projects_V1I1\28Pins_Projects_V1I1_PCB.PcbDoc
-Date     : 5/23/2023
-Time     : 7:05:31 AM
+Date     : 5/26/2023
+Time     : 10:12:23 AM
 
-Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -12,74 +12,67 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=11.811mil) (Max=19.685mil) (Preferred=11.811mil) (All)
+Processing Rule : Width Constraint (Min=0.3mm) (Max=0.5mm) (Preferred=0.3mm) (All)
 Rule Violations :0
 
 Processing Rule : Routing Layers(All)
 Rule Violations :0
 
-Processing Rule : Routing Via (MinHoleWidth=11.811mil) (MaxHoleWidth=11.811mil) (PreferredHoleWidth=11.811mil) (MinWidth=23.622mil) (MaxWidth=23.622mil) (PreferedWidth=23.622mil) (All)
+Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=0.3mm) (PreferredHoleWidth=0.3mm) (MinWidth=0.6mm) (MaxWidth=0.6mm) (PreferedWidth=0.6mm) (All)
 Rule Violations :0
 
-Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=10mil) (Prefered=10mil)  and Width Constraints (Min=15mil) (Max=15mil) (Prefered=15mil) (All)
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.254mm) (Max=0.254mm) (Prefered=0.254mm)  and Width Constraints (Min=0.381mm) (Max=0.381mm) (Prefered=0.381mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=393.701mil) (All)
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=10mm) (All)
 Rule Violations :0
 
 Processing Rule : Pads and Vias to follow the Drill pairs settings
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=11.811mil) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=0.3mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (2.473mil < 3.937mil) Between Pad J7-6(183.051mil,917.323mil) on Top Layer And Pad U5-1(204.598mil,978.85mil) on Top Layer [Top Solder] Mask Sliver [2.473mil]
-Rule Violations :1
-
-Processing Rule : Silk To Solder Mask (Clearance=3.937mil) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (1.934mil < 3.937mil) Between Arc (600mil,2000mil) on Top Overlay And Pad J4-10(741.459mil,2003.648mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [1.934mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 3.937mil) Between Pad C11-2(2499mil,1859.402mil) on Top Layer And Text "1" (2516.493mil,1823.236mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 3.937mil) Between Pad C8-1(91.5mil,1774mil) on Top Layer And Text "1" (112.126mil,1782.874mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (3.634mil < 3.937mil) Between Pad J4-10(741.459mil,2003.648mil) on Multi-Layer And Track (680mil,2050mil)(1700mil,2050mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.634mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 3.937mil) Between Pad J7-6(183.051mil,917.323mil) on Top Layer And Track (162.283mil,951.944mil)(162.283mil,1029.906mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 3.937mil) Between Pad J7-6(183.051mil,917.323mil) on Top Layer And Track (23.621mil,951.944mil)(162.283mil,951.944mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (3.603mil < 3.937mil) Between Pad J7-8(86.594mil,921.26mil) on Multi-Layer And Track (23.621mil,951.944mil)(162.283mil,951.944mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.603mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (1.936mil < 3.937mil) Between Pad JP1-1(2606.299mil,1846.457mil) on Multi-Layer And Track (2651.227mil,1605.143mil)(2651.653mil,1888.583mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.936mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (3.473mil < 3.937mil) Between Pad JP1-2(2606.299mil,1746.457mil) on Multi-Layer And Track (2651.227mil,1605.143mil)(2651.653mil,1888.583mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.473mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (3.323mil < 3.937mil) Between Pad JP1-3(2606.299mil,1646.457mil) on Multi-Layer And Track (2651.227mil,1605.143mil)(2651.653mil,1888.583mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.323mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (2.03mil < 3.937mil) Between Pad JP4-1(457.48mil,346.457mil) on Multi-Layer And Track (415.354mil,391.81mil)(698.794mil,391.384mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [2.03mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (3.503mil < 3.937mil) Between Pad JP4-2(557.48mil,346.457mil) on Multi-Layer And Track (415.354mil,391.81mil)(698.794mil,391.384mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.503mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (3.353mil < 3.937mil) Between Pad JP4-3(657.48mil,346.457mil) on Multi-Layer And Track (415.354mil,391.81mil)(698.794mil,391.384mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.353mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (2.915mil < 3.937mil) Between Pad MH2-1(2600mil,300mil) on Multi-Layer And Track (2524.979mil,445.989mil)(2674.067mil,445.989mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [2.915mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 3.937mil) Between Pad U5-4(279.402mil,1085.15mil) on Top Layer And Track (168.933mil,1102.626mil)(318.021mil,1102.626mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 3.937mil) Between Pad U5-5(204.598mil,1085.15mil) on Top Layer And Track (168.933mil,1102.626mil)(318.021mil,1102.626mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (3.854mil < 3.937mil) Between Pad U6-4(2567.598mil,562.85mil) on Top Layer And Track (2524.979mil,535.374mil)(2674.067mil,535.374mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.854mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (3.854mil < 3.937mil) Between Pad U6-5(2642.402mil,562.85mil) on Top Layer And Track (2524.979mil,535.374mil)(2674.067mil,535.374mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.854mil]
-Rule Violations :18
-
-Processing Rule : Silk to Silk (Clearance=3.937mil) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.049mm < 0.1mm) Between Arc (15.24mm,50.8mm) on Top Overlay And Pad J4-10(18.833mm,50.893mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.049mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.092mm < 0.1mm) Between Pad J4-10(18.833mm,50.893mm) on Multi-Layer And Track (17.272mm,52.07mm)(43.18mm,52.07mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.092mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.085mm < 0.1mm) Between Pad MH2-1(66.04mm,7.62mm) on Multi-Layer And Track (64.287mm,11.479mm)(67.793mm,11.479mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.085mm]
+Rule Violations :3
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Component Clearance Constraint ( Horizontal Gap = 7.874mil, Vertical Gap = 7.874mil ) (All),(All) 
-   Violation between Component Clearance Constraint: (Collision < 7.874mil) Between Component SW2-1825910-6 (973mil,300mil) on Top Layer And SMT Small Component FID4-FID_1MMC (883mil,163mil) on Top Layer 
-   Violation between Component Clearance Constraint: (Collision < 7.874mil) Between DIP Component U1-ATMEGA328P-PU (2443.504mil,795mil) on Top Layer And SMT Small Component SCKT FOR U1-28-DIP Socket (2443.504mil,795mil) on Top Layer 
-   Violation between Component Clearance Constraint: (Collision < 7.874mil) Between SIP Component J2-HDR FEMALE 1x6 2.54mm (2000mil,100mil) on Top Layer And Small Component MH2-MH_7.4MMC_3.2MMD (2600mil,300mil) on Top Layer 
-   Violation between Component Clearance Constraint: (Collision < 7.874mil) Between SIP Component J4-HEADER FEMALE 1x10 2.54mm (1640mil,2000mil) on Top Layer And Small Component MH4-MH_7.4MM_NC_3.2MMD (600mil,2000mil) on Top Layer 
-   Violation between Component Clearance Constraint: (Collision < 7.874mil) Between Small Component MH4-MH_7.4MM_NC_3.2MMD (600mil,2000mil) on Top Layer And SMT Small Component FID1-FID_1MMC (418mil,2027mil) on Top Layer 
-   Violation between Component Clearance Constraint: (Collision < 7.874mil) Between SMT Small Component R27-0R (1302mil,304mil) on Top Layer And SMT Small Component R28-0R (1302mil,229mil) on Top Layer 
-Rule Violations :6
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('SCKT FOR U1')),(InComponent('MH2')or InComponent('U1')) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('MH4')),(InComponent('FID1') or InComponent('J4')) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('SW2')),(InComponent('FID4')) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('R27')),(InComponent('R28')) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.2mm, Vertical Gap = 0.2mm ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('MH2')),(InComponent('J2')) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 25
+Violations Detected : 3
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
