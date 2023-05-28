@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=328P_16MHZ_XTAL1 Pin=R16-1
+Removed Pin From Net: NetName=328P_16MHZ_XTAL2 Pin=R16-2
+Added Pin To Net: NetName=328P_16MHZ_XTAL2 Pin=R16-1
+Added Pin To Net: NetName=328P_16MHZ_XTAL1 Pin=R16-2
+Change Net Color : Old Net Color=RGB(218, 36, 103) New Net Color=Default
+Change Net Color : Old Net Color=RGB(253, 131, 0) New Net Color=Default
+Change Net Color : Old Net Color=Navy New Net Color=Default
