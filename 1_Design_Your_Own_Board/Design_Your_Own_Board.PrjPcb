@@ -182,32 +182,32 @@ DocumentPath=Project Outputs for Design_Your_Own_Board\Design Rule Check - 28Pin
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=Imrul Kais Khan
+Name=VersionRevision
+Value=V 1I1
 
 [Parameter2]
-Name=Company
-Value=Levin Tech
+Name=Title
+Value=28Pins
 
 [Parameter3]
-Name=DesignedByURL
-Value=www.levintech-bd.com
+Name=Project
+Value=Custom Arduino
 
 [Parameter4]
 Name=NotFitted
 Value=NF
 
 [Parameter5]
-Name=Project
-Value=Custom Arduino
+Name=DesignedByURL
+Value=www.levintech-bd.com
 
 [Parameter6]
-Name=Title
-Value=28Pins
+Name=Company
+Value=Levin Tech
 
 [Parameter7]
-Name=VersionRevision
-Value=V 1I1
+Name=Author
+Value=Imrul Kais Khan
 
 [Configuration1]
 Name=Sources
@@ -222,7 +222,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -343,7 +343,7 @@ OutputDefault23=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -438,7 +438,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -460,7 +460,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -532,7 +532,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -569,7 +569,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -749,7 +749,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -793,7 +793,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -854,7 +854,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -2223,6 +2223,15 @@ ComponentDesignItemID36=TL1963A-33DCQR
 ComponentSymbolReference36=TL1963A-33DCQR
 ComponentUpdate36=1
 ComponentIsDeviceSheet36=0
+
+[NetInfos]
+Net1=NetName=+3v3|NetColor=$006724DA
+Net2=NetName=+3v3_16U2_UCAP|NetColor=$0075A19E
+Net3=NetName=+5/3V3|NetColor=$00CA9C00
+Net4=NetName=+5V|NetColor=$000083FD
+Net5=NetName=+5V/3V3_328P_VCC|NetColor=$0075A19E
+Net6=NetName=GND|NetColor=clBlue
+Net7=NetName=NetJP1_3|NetColor=$0075A19E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
