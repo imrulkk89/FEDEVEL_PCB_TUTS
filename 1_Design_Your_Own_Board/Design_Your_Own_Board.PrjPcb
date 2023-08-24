@@ -173,6 +173,129 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=86F6EABC-D82D-40F1-B81B-42D24B7A30F8
+Description=FIXED 5V
+AllowFabrication=0
+ParameterCount=0
+VariationCount=5
+Variation1=Designator=JP2|UniqueId=\DGRHCZLG|Kind=1|AlternatePart= 
+Variation2=Designator=R26|UniqueId=\TJHQZTQX|Kind=1|AlternatePart= 
+Variation3=Designator=JP4|UniqueId=\SJJKVOPF|Kind=1|AlternatePart= 
+Variation4=Designator=LINK3|UniqueId=\EDPEIVOG|Kind=1|AlternatePart= 
+Variation5=Designator=R28|UniqueId=\GFDBJRIY|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=68144CAE-4F49-47C3-AEA3-E571128D3682
+Description=5V/3V3
+AllowFabrication=1
+ParameterCount=0
+VariationCount=6
+Variation1=Designator=Y1|UniqueId=\IFDRLQMN|Kind=2|AlternatePart=ABM7-10.000MHZ-D2Y-T|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\PCB\FEDEVEL\1_Design_Your_Own_Board\28Pins_Projects_V1I1\28Pins_Projects_V1I1.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ABM7-10.000MHZ-D2Y-T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=28Pins_Projects_V1I1.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=ABM7_v1_1_BIG|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=ABM7-10.000MHZ-D2Y-T
+ParamDesignator1=Y1
+ParamVariation2=ParameterName=Category|VariantValue=Crystals
+ParamDesignator2=Y1
+ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator3=Y1
+ParamVariation4=ParameterName=ComponentLink1Description|VariantValue=https://datasheet.ciiva.com/16397/abm7-16397372.pdf?src-supplier=Future+Electronics
+ParamDesignator4=Y1
+ParamVariation5=ParameterName=ComponentLink1URL|VariantValue=https://datasheet.ciiva.com/16397/abm7-16397372.pdf?src-supplier=Future+Electronics
+ParamDesignator5=Y1
+ParamVariation6=ParameterName=Description|VariantValue=Crystal 10MHz ±20ppm (Tol) ±30ppm (Stability) 18pF FUND 80Ohm 2-Pin Mini-CSMD T/R
+ParamDesignator6=Y1
+ParamVariation7=ParameterName=Footprint|VariantValue=ABM7_v1_1_BIG
+ParamDesignator7=Y1
+ParamVariation8=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator8=Y1
+ParamVariation9=ParameterName=Library Reference|VariantValue=ABM7-10.000MHZ-D2Y-T
+ParamDesignator9=Y1
+ParamVariation10=ParameterName=Manufacturer|VariantValue=Abracon
+ParamDesignator10=Y1
+ParamVariation11=ParameterName=Manufacturer Part Number|VariantValue=ABM7-10.000MHZ-D2Y-T
+ParamDesignator11=Y1
+ParamVariation12=ParameterName=PCB3D|VariantValue= 
+ParamDesignator12=Y1
+ParamVariation13=ParameterName=Pin Info|VariantValue= 
+ParamDesignator13=Y1
+ParamVariation14=ParameterName=Pricing 1|VariantValue=1=0.64, 10=0.534, 50=0.4802, 100=0.4268, 500=0.40546 (USD)
+ParamDesignator14=Y1
+ParamVariation15=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator15=Y1
+ParamVariation16=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator16=Y1
+ParamVariation17=ParameterName=Simulation|VariantValue= 
+ParamDesignator17=Y1
+ParamVariation18=ParameterName=Stock 1|VariantValue=827
+ParamDesignator18=Y1
+ParamVariation19=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator19=Y1
+ParamVariation20=ParameterName=Supplier Part Number 1|VariantValue=535-9833-1-ND
+ParamDesignator20=Y1
+Variation2=Designator=Y2|UniqueId=\EBSLIQQN|Kind=2|AlternatePart=ABM7-8.000MHZ-D2Y-T|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\PCB\FEDEVEL\1_Design_Your_Own_Board\28Pins_Projects_V1I1\28Pins_Projects_V1I1.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ABM7-8.000MHZ-D2Y-T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=28Pins_Projects_V1I1.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=ABM7_v1_1_BIG|AltLibLink_IsSameFootprint=True
+ParamVariation21=ParameterName=Comment|VariantValue=ABM7-8.000MHZ-D2Y-T
+ParamDesignator21=Y2
+ParamVariation22=ParameterName=Category|VariantValue=Crystals
+ParamDesignator22=Y2
+ParamVariation23=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator23=Y2
+ParamVariation24=ParameterName=ComponentLink1Description|VariantValue=https://datasheet.ciiva.com/15116/getdatasheetpartid-722403-15116844.pdf?src-supplier=Verical
+ParamDesignator24=Y2
+ParamVariation25=ParameterName=ComponentLink1URL|VariantValue=https://datasheet.ciiva.com/15116/getdatasheetpartid-722403-15116844.pdf?src-supplier=Verical
+ParamDesignator25=Y2
+ParamVariation26=ParameterName=ComponentLink2Description|VariantValue=https://datasheet.ciiva.com/1357/1718755-1357277.pdf?src-supplier=Element14
+ParamDesignator26=Y2
+ParamVariation27=ParameterName=ComponentLink2URL|VariantValue=https://datasheet.ciiva.com/1357/1718755-1357277.pdf?src-supplier=Element14
+ParamDesignator27=Y2
+ParamVariation28=ParameterName=ComponentLink3Description|VariantValue=https://datasheet.ciiva.com/16416/abm7-16416924.pdf?src-supplier=Future+Electronics
+ParamDesignator28=Y2
+ParamVariation29=ParameterName=ComponentLink3URL|VariantValue=https://datasheet.ciiva.com/16416/abm7-16416924.pdf?src-supplier=Future+Electronics
+ParamDesignator29=Y2
+ParamVariation30=ParameterName=ComponentLink4Description|VariantValue=https://datasheet.ciiva.com/4944/abm7-19096-4944987.pdf?src-supplier=Mouser
+ParamDesignator30=Y2
+ParamVariation31=ParameterName=ComponentLink4URL|VariantValue=https://datasheet.ciiva.com/4944/abm7-19096-4944987.pdf?src-supplier=Mouser
+ParamDesignator31=Y2
+ParamVariation32=ParameterName=ComponentLink5Description|VariantValue=https://datasheet.ciiva.com/29998/abm7-29998171.pdf?src-supplier=Avnet
+ParamDesignator32=Y2
+ParamVariation33=ParameterName=ComponentLink5URL|VariantValue=https://datasheet.ciiva.com/29998/abm7-29998171.pdf?src-supplier=Avnet
+ParamDesignator33=Y2
+ParamVariation34=ParameterName=Description|VariantValue=Crystal 8MHz ±20ppm (Tol) ±30ppm (Stability) 18pF FUND 100Ohm 2-Pin Mini-CSMD T/R
+ParamDesignator34=Y2
+ParamVariation35=ParameterName=Footprint|VariantValue=ABM7_v1_1_BIG
+ParamDesignator35=Y2
+ParamVariation36=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator36=Y2
+ParamVariation37=ParameterName=Library Reference|VariantValue=ABM7-8.000MHZ-D2Y-T
+ParamDesignator37=Y2
+ParamVariation38=ParameterName=Manufacturer|VariantValue=Abracon
+ParamDesignator38=Y2
+ParamVariation39=ParameterName=Manufacturer Part Number|VariantValue=ABM7-8.000MHZ-D2Y-T
+ParamDesignator39=Y2
+ParamVariation40=ParameterName=PCB3D|VariantValue= 
+ParamDesignator40=Y2
+ParamVariation41=ParameterName=Pin Info|VariantValue= 
+ParamDesignator41=Y2
+ParamVariation42=ParameterName=Pricing 1|VariantValue=1=0.64, 10=0.534, 50=0.4802, 100=0.4268, 500=0.40546 (USD)
+ParamDesignator42=Y2
+ParamVariation43=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator43=Y2
+ParamVariation44=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator44=Y2
+ParamVariation45=ParameterName=Simulation|VariantValue= 
+ParamDesignator45=Y2
+ParamVariation46=ParameterName=Stock 1|VariantValue=353679
+ParamDesignator46=Y2
+ParamVariation47=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator47=Y2
+ParamVariation48=ParameterName=Supplier Part Number 1|VariantValue=535-9831-1-ND
+ParamDesignator48=Y2
+Variation3=Designator=JP2|UniqueId=\DGRHCZLG|Kind=1|AlternatePart= 
+Variation4=Designator=R26|UniqueId=\TJHQZTQX|Kind=1|AlternatePart= 
+Variation5=Designator=R27|UniqueId=\PTXZUJNI|Kind=1|AlternatePart= 
+Variation6=Designator=R28|UniqueId=\GFDBJRIY|Kind=1|AlternatePart= 
+ParamVariationCount=48
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Free Documents\BOM\28Pins Bom Purchasing-Design_Your_Own_Board.xls
 DItemRevisionGUID=
@@ -182,32 +305,32 @@ DocumentPath=Project Outputs for Design_Your_Own_Board\Design Rule Check - 28Pin
 DItemRevisionGUID=
 
 [Parameter1]
-Name=VersionRevision
-Value=V 1I1
+Name=Author
+Value=Imrul Kais Khan
 
 [Parameter2]
-Name=Title
-Value=28Pins
+Name=Company
+Value=Levin Tech
 
 [Parameter3]
-Name=Project
-Value=Custom Arduino
+Name=DesignedByURL
+Value=www.levintech-bd.com
 
 [Parameter4]
 Name=NotFitted
 Value=NF
 
 [Parameter5]
-Name=DesignedByURL
-Value=www.levintech-bd.com
+Name=Project
+Value=Custom Arduino
 
 [Parameter6]
-Name=Company
-Value=Levin Tech
+Name=Title
+Value=28Pins
 
 [Parameter7]
-Name=Author
-Value=Imrul Kais Khan
+Name=VersionRevision
+Value=V 1I1
 
 [Configuration1]
 Name=Sources
