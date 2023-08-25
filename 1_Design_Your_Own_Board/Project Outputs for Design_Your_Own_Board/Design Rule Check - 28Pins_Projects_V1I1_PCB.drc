@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\PCB\FEDEVEL\1_Design_Your_Own_Board\28Pins_Projects_V1I1\28Pins_Projects_V1I1_PCB.PcbDoc
 Date     : 8/25/2023
-Time     : 7:23:45 AM
+Time     : 8:05:31 AM
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -84,4 +84,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:01

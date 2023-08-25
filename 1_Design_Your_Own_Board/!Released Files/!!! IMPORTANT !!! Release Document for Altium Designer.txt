@@ -31,7 +31,7 @@ IKK [25-Aug-2023]
 
 6) Gerber check
 I confirm, I have copied and visually checked gerber files placed in \PCB Manufacturing\Gerber Output\
-YourIntials [DAY-MONTH-YEAR]
+IKK [25-Aug-2023]
 
 
 7) Other files

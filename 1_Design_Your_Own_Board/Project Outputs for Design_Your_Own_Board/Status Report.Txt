@@ -1,0 +1,27 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:06:04 AM On 8/25/2023
+
+Output: 28Pins Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [28Pins_Projects_V1I1_PCB.PcbDoc]
+   Generated File[28Pins_Projects_V1I1_PCB.GTO]
+   Generated File[28Pins_Projects_V1I1_PCB.GTP]
+   Generated File[28Pins_Projects_V1I1_PCB.GTS]
+   Generated File[28Pins_Projects_V1I1_PCB.GTL]
+   Generated File[28Pins_Projects_V1I1_PCB.GBL]
+   Generated File[28Pins_Projects_V1I1_PCB.GBS]
+   Generated File[28Pins_Projects_V1I1_PCB.GBO]
+   Generated File[28Pins_Projects_V1I1_PCB.GM2]
+   Generated File[28Pins_Projects_V1I1_PCB.GM3]
+   Generated File[28Pins_Projects_V1I1_PCB.GM4]
+   Generated File[28Pins_Projects_V1I1_PCB.GM28]
+   Generated File[28Pins_Projects_V1I1_PCB.RUL]
+   Generated File[28Pins_Projects_V1I1_PCB.EXTREP]
+   Generated File[28Pins_Projects_V1I1_PCB.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 8:06:04 AM On 8/25/2023
