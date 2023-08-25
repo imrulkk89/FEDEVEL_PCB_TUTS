@@ -7,26 +7,26 @@ The procedure needs to be executed in order as defined here. Start from number 1
 
 1) Right Click on the project -> Compile PCB project
 I confirm, the project compiles with no errors: 
-YourIntials [DAY-MONTH-YEAR]
+IKK [25-Aug-2023]
 
 2) Run Design -> Update PCB Document
 I confirm, there are no differences between Schematic and PCB: 
-YourIntials [DAY-MONTH-YEAR]
+IKK [25-Aug-2023]
 
 
 3) Impedance
 I confirm, I have updated and check track width/gap to match required impedance (e.g 55 OHMs): 
-YourIntials [DAY-MONTH-YEAR]
+N/A
 
 
 4) Run Tools -> Polygon Pours -> Rebuild All
 I confirm, all polygons have been repoured: 
-YourIntials [DAY-MONTH-YEAR]
+IKK [25-Aug-2023]
 
 
 5) Run Tools -> Design Rule Check -> Run Design Rule Check
 I confirm, I have checked Design Rule Output File:
-YourIntials [DAY-MONTH-YEAR]
+IKK [25-Aug-2023]
 
 
 6) Gerber check
