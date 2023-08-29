@@ -1,17 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 8:38:05 AM On 8/25/2023
+Start Output Generation At 9:36:00 AM On 8/29/2023
 
-Output: 28Pins NC Drill Files
-Type  : NC Drill
-From  : PCB Document [28Pins_Projects_V1I1_PCB.PcbDoc]
-   Generated File[28Pins_Projects_V1I1_PCB-RoundHoles.TXT]
-   Generated File[28Pins_Projects_V1I1_PCB-SlotHoles.TXT]
-   Generated File[28Pins_Projects_V1I1_PCB.LDP]
-   Generated File[28Pins_Projects_V1I1_PCB.DRR]
+Output: 28Pins Component Reference BOM
+Type  : BOM
+From  : Variant [5V/3V3] of Project [Design_Your_Own_Board.PrjPcb]
+   Generated File[28Pins Component Reference BOM-Design_Your_Own_Board(5V_3V3).xls]
 
 
-Files Generated   : 4
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 8:38:06 AM On 8/25/2023
+Finished Output Generation At 9:36:02 AM On 8/29/2023
