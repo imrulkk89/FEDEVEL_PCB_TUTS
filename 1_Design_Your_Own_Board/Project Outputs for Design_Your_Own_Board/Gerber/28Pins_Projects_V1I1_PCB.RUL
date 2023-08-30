@@ -1,7 +1,0 @@
-DRC Rules Export File for PCB: D:\PCB\FEDEVEL\1_Design_Your_Own_Board\28Pins_Projects_V1I1\28Pins_Projects_V1I1_PCB.PcbDoc
-RuleKind=Clearance|RuleName=Around Polygons|Scope=Board|Minimum=11.81
-RuleKind=Width|RuleName=Width POWERS|Scope=Board|Minimum=15.75
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

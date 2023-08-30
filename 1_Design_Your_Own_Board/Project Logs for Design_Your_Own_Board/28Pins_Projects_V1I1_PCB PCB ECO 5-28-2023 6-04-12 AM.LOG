@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=328P_16MHZ_XTAL2 Pin=Y1-1
-Removed Pin From Net: NetName=328P_16MHZ_XTAL1 Pin=Y1-2
-Added Pin To Net: NetName=328P_16MHZ_XTAL1 Pin=Y1-1
-Added Pin To Net: NetName=328P_16MHZ_XTAL2 Pin=Y1-2
