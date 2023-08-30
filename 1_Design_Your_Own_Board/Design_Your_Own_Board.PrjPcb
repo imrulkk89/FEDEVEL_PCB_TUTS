@@ -305,32 +305,32 @@ DocumentPath=Project Outputs for Design_Your_Own_Board\Design Rule Check - 28Pin
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=Imrul Kais Khan
+Name=VersionRevision
+Value=V 1I1
 
 [Parameter2]
-Name=Company
-Value=Levin Tech
+Name=Title
+Value=28Pins
 
 [Parameter3]
-Name=DesignedByURL
-Value=www.levintech-bd.com
+Name=Project
+Value=Custom Arduino
 
 [Parameter4]
 Name=NotFitted
 Value=NF
 
 [Parameter5]
-Name=Project
-Value=Custom Arduino
+Name=DesignedByURL
+Value=www.levintech-bd.com
 
 [Parameter6]
-Name=Title
-Value=28Pins
+Name=Company
+Value=Levin Tech
 
 [Parameter7]
-Name=VersionRevision
-Value=V 1I1
+Name=Author
+Value=Imrul Kais Khan
 
 [Configuration1]
 Name=Sources
@@ -341,6 +341,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
