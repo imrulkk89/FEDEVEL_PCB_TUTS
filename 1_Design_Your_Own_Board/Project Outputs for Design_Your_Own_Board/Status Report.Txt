@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 9:36:00 AM On 8/29/2023
+Start Output Generation At 8:06:38 AM On 8/30/2023
 
-Output: 28Pins Component Reference BOM
-Type  : BOM
-From  : Variant [5V/3V3] of Project [Design_Your_Own_Board.PrjPcb]
-   Generated File[28Pins Component Reference BOM-Design_Your_Own_Board(5V_3V3).xls]
+Output: 28Pins Pick and Place
+Type  : Pick Place
+From  : Variant [FIXED 5V] of PCB Document [28Pins_Projects_V1I1_PCB.PcbDoc]
+   Generated File[Pick Place for 28Pins_Projects_V1I1_PCB(FIXED 5V).txt]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 9:36:02 AM On 8/29/2023
+Finished Output Generation At 8:08:18 AM On 8/30/2023
